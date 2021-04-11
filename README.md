@@ -38,4 +38,4 @@
 *A web browser visualization of the agent carrying out the simulation similar to the one in the image below will be available once the project is complete*
 <img src="./images/CarlaVis.gif" width="100%">
 
-<p align="center">Looking forward to sharing this project with the world ❤️ </p>
+<p align="center">Looking forward to sharing this project with everyone ❤️ </p>
